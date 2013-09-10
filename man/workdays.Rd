@@ -15,7 +15,7 @@ with which individuals miss work due to mental health issues and other covariate
     \item{\code{cigtry}}{Reported age that the respondent first smoked a cigarette.}
     \item{\code{impydays}}{Reported days in the past year the respondent was unable to work due to mental health (see details).}
     \item{\code{age2}}{Respondent age (see details).}
-    \item{\code{service}}{Has the respondent been in the U.S. Armed Forces? (\code{1}=yes, \code{2}=no)}
+    \item{\code{service}}{Has the respondent been in the U.S. Armed Forces? (\code{1}=yes, \code{0}=no)}
     \item{\code{health}}{Rating of overall health, where \code{1} is excellent and \code{5} is poor.}
     \item{\code{movespy2}}{Number of times the respondent moved in the past 12 months.}
     \item{\code{schenrl}}{Whether the respondent is enrolled in any school (\code{1}=yes, \code{0}=no).}

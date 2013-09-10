@@ -1,0 +1,5 @@
+Changes in Version 1.1
+
+o Revised documentation of workdays, as service variable was misdocumented.
+
+o In finance data, converted sub (subject number) to a factor

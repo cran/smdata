@@ -1,5 +1,6 @@
-7963922829e2ea23e79ce28b741bb299 *DESCRIPTION
+38eb822c0a6991f2b7b8bc80d787e6d4 *DESCRIPTION
 09754c9bb5e1c4827329a9e0ba97b396 *NAMESPACE
+f2b4ab30d55583643e76f1e634fc8863 *NEWS
 06ed2edc36fee64c1a5dca3cdc9bdf14 *data/babies.rda
 0cb5b2bbf4c06f8b42f77a2ae6d851c3 *data/carsales.rda
 5c3ba3433d5b4b2ef60b51bb4be31398 *data/cocaine.rda
@@ -9,7 +10,7 @@ a13b89eb9426ef4d42cb62d43268496b *data/dyslexic3.rda
 ad37e6b6ae7b2e702d7ca37b8556aa29 *data/email.rda
 cdcaeea8803f1e39070dc621af28d0f2 *data/euthan.rda
 22364ee2d60737e39b88348aaba8b143 *data/exam.rda
-e56847a4217937529e7b056d3236b23b *data/finance.rda
+687fdfbc2c7df3e1e9afbca7f40b9be1 *data/finance.rda
 891cb41d86d25ae06f850eda9bc328f5 *data/fixations.rda
 a40a95959f60a64c5f05a924c746eadd *data/grades.rda
 91af2f6506e9647e010103d4b7bf5597 *data/guilt1.rda
@@ -44,4 +45,4 @@ aff21971583969239c2c2712270c3aac *man/guilt3.Rd
 7ac2cc1791e316f6ce133c2fe6bf0555 *man/trchoice.Rd
 1e690deffd588909d805f4f6a439c504 *man/treatment.Rd
 9cb84dca1b1b05ee7e7d29a924bebedc *man/trlong.Rd
-ab3daccc40e1c2844a5c558d481921ed *man/workdays.Rd
+24a9f79a4ebcaedfa815bced7aa407d8 *man/workdays.Rd
