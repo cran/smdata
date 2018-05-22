@@ -1,6 +1,6 @@
-38eb822c0a6991f2b7b8bc80d787e6d4 *DESCRIPTION
+ce61be3827dc73f2e51b4aa59f33d2a6 *DESCRIPTION
 09754c9bb5e1c4827329a9e0ba97b396 *NAMESPACE
-f2b4ab30d55583643e76f1e634fc8863 *NEWS
+4bbe616575a221bcd9ef0e3068c9ef7f *NEWS
 06ed2edc36fee64c1a5dca3cdc9bdf14 *data/babies.rda
 0cb5b2bbf4c06f8b42f77a2ae6d851c3 *data/carsales.rda
 5c3ba3433d5b4b2ef60b51bb4be31398 *data/cocaine.rda
@@ -41,7 +41,6 @@ aff21971583969239c2c2712270c3aac *man/guilt3.Rd
 1cc7efeba7fde33e91dd7d0f53aa56cc *man/phono.Rd
 2ffbae22dc579ce0224321647c0d6488 *man/rtime.Rd
 3d1559b6829029766d175d155c35a4f2 *man/skipping.Rd
-1e5f1a601507a2ac24483765240b1e08 *man/smdata-package.Rd
 7ac2cc1791e316f6ce133c2fe6bf0555 *man/trchoice.Rd
 1e690deffd588909d805f4f6a439c504 *man/treatment.Rd
 9cb84dca1b1b05ee7e7d29a924bebedc *man/trlong.Rd

@@ -1,3 +1,6 @@
+Changes in Version 1.2
+o Remove old package metadata, which used wrong version number.
+
 Changes in Version 1.1
 
 o Revised documentation of workdays, as service variable was misdocumented.
